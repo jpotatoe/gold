@@ -1,0 +1,5 @@
+==================
+goldschmiede.plone
+==================
+
+User documentation

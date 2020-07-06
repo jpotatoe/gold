@@ -1,0 +1,6 @@
+[report]
+include =
+    src/goldschmiede/*
+omit =
+    */test*
+    */upgrades/*
